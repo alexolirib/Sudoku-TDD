@@ -1,0 +1,6 @@
+C:\Users\adm\source\repos\Dojo\Dojo.sudoku\bin\Debug\Dojo.sudoku.dll
+C:\Users\adm\source\repos\Dojo\Dojo.sudoku\bin\Debug\Dojo.sudoku.pdb
+C:\Users\adm\source\repos\Dojo\Dojo.sudoku\obj\Debug\Dojo.sudoku.csprojResolveAssemblyReference.cache
+C:\Users\adm\source\repos\Dojo\Dojo.sudoku\obj\Debug\Dojo.sudoku.csproj.CoreCompileInputs.cache
+C:\Users\adm\source\repos\Dojo\Dojo.sudoku\obj\Debug\Dojo.sudoku.dll
+C:\Users\adm\source\repos\Dojo\Dojo.sudoku\obj\Debug\Dojo.sudoku.pdb
